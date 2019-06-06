@@ -1,5 +1,6 @@
 # Author:JiaHongWang
 # -*- coding utf-8 -*-
+
 import random
 count=1
 random_num1=random.randint(0,100)
