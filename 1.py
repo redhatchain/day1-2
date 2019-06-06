@@ -1,5 +1,6 @@
 # Author:JiaHongWang
 # -*- coding utf-8 -*-
+
 total=0
 n=0
 number=''
